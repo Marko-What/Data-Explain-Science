@@ -1,0 +1,431 @@
+[
+ {	"searchKeyword": "dementia",
+    "databaseSources": ["street", "clinics", "research", "privateData"],
+	"data":[
+	{
+	    "id": 1,
+	    "types": "Heart disease",
+	    "cureScaleAvg": 87,
+	    "clinicTrials": 9,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 2,
+	    "databaseSources": ["street", "privateData"],
+	    "types": "lungs disease",
+	    "cureScaleAvg": 13,
+	    "clinicTrials": 3,
+	    "medicalReports": 14			
+	},
+	{
+	    "id": 3,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "bone disease",
+	    "cureScaleAvg": 26,
+	    "clinicTrials": 3,
+	    "medicalReports": 14  			
+	},
+	{
+	    "id": 4,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "blood disease",
+	    "cureScaleAvg": 83,
+	    "clinicTrials": 93,
+	    "medicalReports": 36  			
+	},
+	{
+	    "id": 5,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "tissue disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 4,
+	    "medicalReports": 45 			
+	},
+	{
+	    "id": 6,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "stomach disease",
+	    "cureScaleAvg": 43,
+	    "clinicTrials": 12,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 7,
+	    "databaseSources": ["street", "clinics","privateData"],
+	    "types": "drugs disease",
+	    "cureScaleAvg": 7,
+	    "clinicTrials": 91,
+	    "medicalReports": 24  			
+	},
+	{
+	    "id": 8,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "coffee disease",
+	    "cureScaleAvg": 12,
+	    "clinicTrials":41,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 9,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "brain disease",
+	    "cureScaleAvg": 13,
+	    "clinicTrials": 53,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 10,
+	    "databaseSources": ["street", "clinics","research"],
+	    "types": "skin disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 22,
+	    "medicalReports": 23 			
+	},
+	{
+	    "id": 11,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "hair disease",
+	    "cureScaleAvg": 65,
+	    "clinicTrials": 11,
+	    "medicalReports": 83  			
+	},
+	{
+	    "id": 12,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "nail disease",
+	    "cureScaleAvg": 42,
+	    "clinicTrials": 3,
+	    "medicalReports": 14 			
+	},
+	{
+	    "id": 13,
+	    "databaseSources": ["street", "clinics", "research", "privateData"],
+	    "types": "tooth disease",
+	    "cureScaleAvg": 99,
+	    "clinicTrials": 99,
+	    "medicalReports": 99			
+	}
+   ]},
+   {	"searchKeyword": "blood",
+        "databaseSources": ["street", "research", "privateData"],
+	"data":[
+	{
+	    "id": 1,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "Stomach disease",
+	    "cureScaleAvg": 87,
+	    "clinicTrials": 19,
+	    "medicalReports": 134			
+	},
+	{
+	    "id": 2,
+	    "databaseSources": ["street", "privateData"],
+	    "types": "lungs disease tbone",
+	    "cureScaleAvg": 213,
+	    "clinicTrials": 32,
+	    "medicalReports": 14			
+	},
+	{
+	    "id": 3,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "bone disease yes",
+	    "cureScaleAvg": 26,
+	    "clinicTrials": 3,
+	    "medicalReports": 14  			
+	},
+	{
+	    "id": 4,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "blood disease",
+	    "cureScaleAvg": 83,
+	    "clinicTrials": 93,
+	    "medicalReports": 36  			
+	},
+	{
+	    "id": 5,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "tissue disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 4,
+	    "medicalReports": 45 			
+	},
+	{
+	    "id": 6,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "stomach disease",
+	    "cureScaleAvg": 43,
+	    "clinicTrials": 12,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 7,
+	    "databaseSources": ["street", "clinics","privateData"],
+	    "types": "drugs disease",
+	    "cureScaleAvg": 7,
+	    "clinicTrials": 91,
+	    "medicalReports": 24  			
+	},
+	{
+	    "id": 8,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "coffee disease",
+	    "cureScaleAvg": 12,
+	    "clinicTrials":41,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 9,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "brain disease",
+	    "cureScaleAvg": 13,
+	    "clinicTrials": 53,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 10,
+	    "databaseSources": ["street", "clinics","research"],
+	    "types": "skin disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 22,
+	    "medicalReports": 23 			
+	},
+	{
+	    "id": 11,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "hair disease",
+	    "cureScaleAvg": 65,
+	    "clinicTrials": 11,
+	    "medicalReports": 83  			
+	},
+	{
+	    "id": 12,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "nail disease",
+	    "cureScaleAvg": 42,
+	    "clinicTrials": 3,
+	    "medicalReports": 14 			
+	},
+	{
+	    "id": 13,
+	    "databaseSources": ["street", "clinics", "research", "privateData"],
+	    "types": "tooth disease",
+	    "cureScaleAvg": 99,
+	    "clinicTrials": 99,
+	    "medicalReports": 99			
+	},
+	{
+	    "id": 14,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "Diabetes disease",
+	    "cureScaleAvg": 187,
+	    "clinicTrials": 11,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 15,
+	    "databaseSources": ["street", "privateData"],
+	    "types": "Tuberculosis disease",
+	    "cureScaleAvg": 44,
+	    "clinicTrials": 12,
+	    "medicalReports": 14			
+	},
+	{
+	    "id": 16,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "Cirrhosis disease",
+	    "cureScaleAvg": 6,
+	    "clinicTrials": 341,
+	    "medicalReports": 114  			
+	},
+	{
+	    "id": 17,
+	    "databaseSources": ["clinics", "privateData"],
+	    "types": "Trachea disease",
+	    "cureScaleAvg": 834,
+	    "clinicTrials": 3,
+	    "medicalReports": 136  			
+	},
+	{
+	    "id": 18,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "bronchus disease",
+	    "cureScaleAvg": 18,
+	    "clinicTrials": 41,
+	    "medicalReports": 45 			
+	},
+	{
+	    "id": 19,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "Chronic obstructive pulmonary disease",
+	    "cureScaleAvg": 23,
+	    "clinicTrials": 22,
+	    "medicalReports": 24  			
+	},
+	{
+	    "id": 20,
+	    "databaseSources": ["street", "clinics","privateData"],
+	    "types": "Malaria disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 91,
+	    "medicalReports": 24  			
+	},
+	{
+	    "id": 21,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "Hepatitis C disease",
+	    "cureScaleAvg": 121,
+	    "clinicTrials":411,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 22,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "Dengue disease",
+	    "cureScaleAvg": 3,
+	    "clinicTrials": 153,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 23,
+	    "databaseSources": ["street", "clinics","research"],
+	    "types": "Tuberculosis disease",
+	    "cureScaleAvg": 117,
+	    "clinicTrials": 212,
+	    "medicalReports": 23 			
+	},
+	{
+	    "id": 24,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "Hepatitis A disease",
+	    "cureScaleAvg": 5,
+	    "clinicTrials": 11,
+	    "medicalReports": 83  			
+	},
+	{
+	    "id": 25,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "Hepatitis C disease",
+	    "cureScaleAvg": 24,
+	    "clinicTrials": 3,
+	    "medicalReports": 14 			
+	},
+	{
+	    "id": 26,
+	    "databaseSources": ["street", "clinics", "research", "privateData"],
+	    "types": "Malaria CC disease",
+	    "cureScaleAvg": 919,
+	    "clinicTrials": 919,
+	    "medicalReports": 99			
+	}
+  ]},
+   {	"searchKeyword": "skin",
+        "databaseSources": ["street", "clinics", "research"],
+	"data":[
+	{
+	    "id": 1,
+	    "databaseSources": ["street", "clinics", "research", "privateData"],
+	    "types": "Heart disease",
+	    "cureScaleAvg": 7,
+	    "clinicTrials": 19,
+	    "medicalReports": 14 			
+	},
+	{
+	    "id": 2,
+	    "databaseSources": ["street", "privateData"],
+	    "types": "lungs disease",
+	    "cureScaleAvg": 13,
+	    "clinicTrials": 3,
+	    "medicalReports": 14			
+	},
+	{
+	    "id": 3,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "bone disease",
+	    "cureScaleAvg": 26,
+	    "clinicTrials": 3,
+	    "medicalReports": 14  			
+	},
+	{
+	    "id": 4,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "blood disease",
+	    "cureScaleAvg": 83,
+	    "clinicTrials": 93,
+	    "medicalReports": 36  			
+	},
+	{
+	    "id": 5,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "tissue disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 4,
+	    "medicalReports": 45 			
+	},
+	{
+	    "id": 6,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "stomach disease",
+	    "cureScaleAvg": 43,
+	    "clinicTrials": 12,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 7,
+	    "databaseSources": ["street", "clinics","privateData"],
+	    "types": "drugs disease",
+	    "cureScaleAvg": 7,
+	    "clinicTrials": 91,
+	    "medicalReports": 24  			
+	},
+	{
+	    "id": 8,
+	    "databaseSources": ["street", "research", "privateData"],
+	    "types": "coffee disease",
+	    "cureScaleAvg": 12,
+	    "clinicTrials":41,
+	    "medicalReports": 4  			
+	},
+	{
+	    "id": 9,
+	    "databaseSources": ["street", "clinics"],
+	    "types": "brain disease",
+	    "cureScaleAvg": 13,
+	    "clinicTrials": 53,
+	    "medicalReports": 34 			
+	},
+	{
+	    "id": 10,
+	    "databaseSources": ["street", "clinics","research"],
+	    "types": "skin disease",
+	    "cureScaleAvg": 17,
+	    "clinicTrials": 22,
+	    "medicalReports": 23 			
+	},
+	{
+	    "id": 11,
+	    "databaseSources": ["clinics", "research", "privateData"],
+	    "types": "hair disease",
+	    "cureScaleAvg": 65,
+	    "clinicTrials": 11,
+	    "medicalReports": 83  			
+	},
+	{
+	    "id": 12,
+	    "databaseSources": ["street", "clinics", "privateData"],
+	    "types": "nail disease",
+	    "cureScaleAvg": 42,
+	    "clinicTrials": 3,
+	    "medicalReports": 14 			
+	},
+	{
+	    "id": 13,
+	    "databaseSources": ["street", "clinics", "research", "privateData"],
+	    "types": "tooth disease",
+	    "cureScaleAvg": 99,
+	    "clinicTrials": 99,
+	    "medicalReports": 99			
+	}
+   ]}
+
+
+]

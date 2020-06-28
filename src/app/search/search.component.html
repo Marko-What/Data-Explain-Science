@@ -1,0 +1,15 @@
+<div class="search">
+
+<div class="container">
+<h4>Type in: blood, dementia or skin</h4>
+
+<form #myform="ngForm" (ngSubmit)="searchQuery(myform.value)" class="form form-register">
+  <label for="fname">type in search keyword:</label><br>
+
+  <input type="text" id="fname" name="search" ngModel minlength="3" required>
+   <input type="submit" value="search" [disabled]="!myform.form.valid" >
+       
+ </form>
+
+</div>
+</div>

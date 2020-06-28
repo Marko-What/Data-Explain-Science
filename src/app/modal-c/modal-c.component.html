@@ -1,0 +1,34 @@
+<!--
+modal graph
+-->
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"	>
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+		
+      <div class="modal-header">
+        
+		<h5 class="modal-title" id="exampleModalLabel">{{ types }}</h5>
+				
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+		<div class="graphValues">
+				<span class="inline">cureScaleAvg:</span> <span class="inlineValue">{{ cureScaleAvg }}, </span> <span class="inline"> clinicTrials:</span> <span class="inlineValue">{{ clinicTrials }}, </span> <span class="inline"> medicalReports:</span> <span class="inlineValue">{{ medicalReports }}</span>
+				</div>
+      <div class="modal-body">
+				  		 
+								<app-line-graph></app-line-graph>
+						
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary closeTheme" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--
+end of modal graph
+-->
